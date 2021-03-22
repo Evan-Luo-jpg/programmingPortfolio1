@@ -1,6 +1,6 @@
 # Evan's programming portfolio 2021
 
-## Processing Porjects
+## Processing Projects
 
 ### SpaceGame
 
