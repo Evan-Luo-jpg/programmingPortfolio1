@@ -7,11 +7,12 @@ I am a student at Skyline Highschool taking comuter programmning 1. I am learnin
 
 An OOP tower denfese game made in PyProcessing
 
-![TowerDefenseGame](https://github.com/Evan-Luo-jpg/TowerDefenseGame/blob/main/images/workingGame.png?raw=true)
-![TowerDefenseGame](https://github.com/Evan-Luo-jpg/TowerDefenseGame/blob/main/images/gameOver.png?raw=true)
+![TowerDefenseGame](https://github.com/Evan-Luo-jpg/programmingPortfolio1/blob/gh-pages/images/gameOver.png?raw=true)
+![TowerDefenseGame](https://github.com/Evan-Luo-jpg/programmingPortfolio1/blob/gh-pages/images/workingGame.png?raw=true)
 
 Source code for project [here](https://github.com/Evan-Luo-jpg/TowerDefenseGame/tree/main/src/towerDefensegame).
 
+A windows executable can be downloaded [here](https://github.com/Evan-Luo-jpg/TowerDefenseGame/tree/main/src).
 
 ### SpaceGame
 
