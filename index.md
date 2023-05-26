@@ -1,5 +1,5 @@
 # Evan's programming portfolio 2021
-I am a student at Skyline Highschool taking comuter programmning 1. I am learning python and have passed the certification exam for basic computer programming. [Evan](mailto:evanluo2006@gmail.com)
+I am a student at Skyline Highschool finished taking computer programmning 1 and advanced computer programming. I am learning python and have passed the certification exam for basic computer programming as well as python and Java. [Evan](mailto:evanluo2006@gmail.com)
 
 ## Processing Projects
 
