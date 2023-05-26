@@ -63,3 +63,15 @@ An application that used the movement keys to draw, made in Processing winter 20
 Source code for project [here](https://github.com/Evan-Luo-jpg/programmingPortfolio1/tree/gh-pages/src/EtchaSketch).
 
 A windows executable can be downloaded [here](https://github.com/Evan-Luo-jpg/programmingPortfolio1/blob/gh-pages/src/EtchaSketch/EtchaSketch64.zip).
+
+### Group Project
+A celluar evolution simulator made with a neural network
+![Running evolution](https://github.com/Evan-Luo-jpg/programmingPortfolio1/blob/gh-pages/images/Screen%20Shot%202023-05-26%20at%208.45.01%20AM.png?raw=true)
+
+Group Repository [here](https://github.com/CalvinWebb/A1GroupProject)
+
+### Individual Project
+A project made for Mr. Gunderson to display intermolecular forces
+![Running](https://github.com/Evan-Luo-jpg/programmingPortfolio1/blob/gh-pages/images/Screen%20Shot%202023-03-20%20at%207.35.51%20AM.png?raw=true)
+
+Repository [here](https://github.com/Evan-Luo-jpg/P2Indiviual)
