@@ -1,0 +1,54 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class PigLatin {
+
+    static boolean isVowel(char c){
+        return(c == 'A' || c == 'a' || c == 'E' || c == 'e' || c == 'I' || c == 'i' || c == 'O' || c == 'o' || c == 'U' || c == 'u');
+     }
+    
+    static String word(String string){
+        int length = string.length();
+        int index = -1;
+        for(int i = 0; i<length; i++){
+            if(isVowel(string.charAt(i))){
+                index = i;
+                break;
+            }
+        }
+    
+        if (index == -1){
+            return"No vowels";
+        }else{
+            return string.substring(index) + string.substring(0,index)+ "ay";
+         }
+    }
+
+
+    public static void main(String[] args){
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader("Input.txt"));
+            BufferedWriter writer = new BufferedWriter(new FileWriter("Output.txt"));
+            String line = reader.readLine();
+
+            while(line != null){
+                //write to output
+                String pigLatin = word(line);
+                writer.write(pigLatin);
+                //next line
+                writer.write('\n');
+                //read next line
+                line = reader.readLine();
+            }
+
+            reader.close();
+            writer.close();
+        } catch (IOException e) {
+
+            // TODO: handle exception
+            System.out.println("Didn't work");
+        }
+    }
+}
